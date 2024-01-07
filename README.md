@@ -12,6 +12,9 @@ This project aims to create a responsive and user-friendly News Blog application
 
 This project is a web application that provides features for user authentication, a dashboard to display articles, article detail pages, and functionality to create, edit, and delete articles.
 
+## Video Demo
+link: (https://www.loom.com/share/152f9869ac664bfda7080fb1bc4f1a05?sid=26b68225-1897-475d-bb4d-856f1884474f)
+
 ## Features implemented
 
 - [Authentication](#authentication)
